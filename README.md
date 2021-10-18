@@ -2,8 +2,7 @@
 This project was created when I have a college exam to created simple chatting application using java socket
 
 ## Requirements
-1. XAMPP == v3.2.4
-2. NetBeans == V8.2
+1. NetBeans == V8.2
 
 ## Output
 ![app](https://user-images.githubusercontent.com/48760006/137660418-d9ff1da0-69d0-42b4-a92c-3eb9c9d4eafb.jpg)
